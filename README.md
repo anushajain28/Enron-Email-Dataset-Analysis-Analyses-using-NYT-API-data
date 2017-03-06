@@ -14,9 +14,9 @@ As it was a huge scam, tracking the activity of each employee is important. Inve
 
 ### Steps followed: 
     
-..* read all the relevant files from sent_mail folders of each employee
-..* extract year and month for each mail
-..* calculate the count of mails for each year and month
+Markup : * read all the relevant files from sent_mail folders of each employee
+		 ..* extract year and month for each mail
+         ..* calculate the count of mails for each year and month
     
 ### Results: 
     
