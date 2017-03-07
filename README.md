@@ -21,13 +21,13 @@ As it was a huge scam, tracking the activity of each employee is important. Inve
 ### Results:
  
 #####Emails  sent in 1990   
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_1999.png)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_1999.png)
 #####Emails  sent in 2000
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2000.png)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_2000.png)
 #####Emails  sent in 2001 
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2001.png)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_2001.png)
 #####Emails  sent in 2002
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2002.png)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_2002.png)
     
 ### Conclusion:
     
@@ -49,10 +49,10 @@ As it was known that the scam occured during 2000-2001 , and from the results of
 ### Results:
 
 ##### Who sent the most emails
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/MailsSent.PNG)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%202/MailsSent.PNG)
 
 ##### To whom the mails were sent
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/From_to.PNG)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%202/From_to.PNG)
 
 #### Conclusion: 
 Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
@@ -71,7 +71,7 @@ Results of Analysis 2 gave us an idea of who might the key players involed in th
 ### Results:
 
 ##### Word Cloud of most common terms used in emails of few of the key persons
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/enron.PNG)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
 
 ### Conclusion: 
 Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
