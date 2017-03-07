@@ -21,13 +21,13 @@ As it was a huge scam, tracking the activity of each employee is important. Inve
 ### Results:
  
 #####Emails  sent in 1990   
-![alt tag](https://www.w3schools.com/css/trolltunga.jpg)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_1999.png)
 #####Emails  sent in 2000
-    ![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2000.png)
 #####Emails  sent in 2001 
-    ![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2001.png)
 #####Emails  sent in 2002
-    ![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/Emails_SentIn_2002.png)
     
 ### Conclusion:
     
@@ -52,7 +52,7 @@ As it was known that the scam occured during 2000-2001 , and from the results of
 ![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/MailsSent.PNG)
 
 ##### To whom the mails were sent
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/From_to.PNG)
 
 #### Conclusion: 
 Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
