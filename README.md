@@ -71,7 +71,7 @@ Results of Analysis 2 gave us an idea of who might the key players involed in th
 ### Results:
 
 ##### Word Cloud of most common terms used in emails of few of the key persons
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/enron.PNG)
 
 ### Conclusion: 
 Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
@@ -107,11 +107,11 @@ Analysis 1 is based on Article Search API . It has Times articles from 1851 to t
 #####Trending Sports During 2014
     ![alt tag](image_url)
 #####Trending Sports During 2015    
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%201/Sport1.PNG)
 #####Trending Sports During 2016
-    ![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%201/Sport2.PNG)
 #####Trending Sports During 2017
-    ![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%201/Sport3.PNG)
     
 ### Conclusion:
     
@@ -132,13 +132,13 @@ Analysis 1 is based on Archive API . It has Times articles from 1851 to today, r
 ### Results:
 
 ##### Most Frequent Words realated to Trump in 2014
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%202/2014_Trump.PNG)
 
 ##### Most Frequent Words realated to Trump in 2015
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%202/2015_Trump.PNG)
 
 ##### Most Frequent Words realated to Trump in 2016
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%202/2016_Trump.PNG)
 
 #### Conclusion: 
 From the Word Cloud for year 2014 is can to interpreted that there were not much discussions about Mr. Trump in the news. As the election time approached, in 2015 the discussions about him increased and terms like presidential, campaign, Republican became frequent. And as we had elections in 2016, Donald Trump was discussed the most in the new articles and the frequency of election and Republican party related words became more frequent in the news.
@@ -160,10 +160,10 @@ Analysis 3 is based on Most Popular API . It has Times articles with their view 
 ### Results:
 
 ##### Share and View Count of Articles for each Author
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%203/Share_View%20Count.PNG)
 
 ##### Most Popular Author
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%203/MostPopular.PNG)
 
 ### Conclusion: 
 From the result it can be inferred that these are the authors whose articles are shared and viewed the most.  
