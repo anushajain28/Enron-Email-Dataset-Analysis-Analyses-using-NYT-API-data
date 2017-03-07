@@ -49,7 +49,7 @@ As it was known that the scam occured during 2000-2001 , and from the results of
 ### Results:
 
 ##### Who sent the most emails
-![alt tag](image_url)
+![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%5B1_3%5D/MailsSent.PNG)
 
 ##### To whom the mails were sent
 ![alt tag](image_url)
@@ -89,7 +89,7 @@ NYT developr docs has articles from various categories like books, movies, artic
 Download the data and store as json response.
 
 ## Analysis 1 
-Analysis 1 is based on ###### Article Search API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
+Analysis 1 is based on Article Search API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
 
 ### Analysis 1 : Identifying the trending sports during a particular timeframe.
 (Data used for years 2013-2017)
@@ -118,7 +118,7 @@ Analysis 1 is based on ###### Article Search API . It has Times articles from 18
 Based on the data available, the results show the most trending sport during each month of the year.
 
 ## Analysis 2
-Analysis 1 is based on ###### Archive API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
+Analysis 1 is based on Archive API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
 
 ###Analysis 2 - Identifying the topics discussed about Mr. Donald Trump. 
 (Data used for year 2014, 2015 and 2016)  
@@ -145,7 +145,7 @@ From the Word Cloud for year 2014 is can to interpreted that there were not much
  
 
 ## Analysis 3
-Analysis 3 is based on ###### Most Popular API . It has Times articles with their view count and shared count and the atricles which were forwaded as email.
+Analysis 3 is based on Most Popular API . It has Times articles with their view count and shared count and the atricles which were forwaded as email.
 
 ###Analysis 3 - Determining the most popular author based on the view count and the share count of his/her articles.
     
