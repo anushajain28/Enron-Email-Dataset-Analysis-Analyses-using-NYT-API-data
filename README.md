@@ -55,7 +55,7 @@ As it was known that the scam occured during 2000-2001 , and from the results of
 ![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%202/From_to.PNG)
 
 #### Conclusion: 
-Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
+Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these people were among the top 10 people who were sending mails during that time.
 
 ## Analysis 3
 Results of Analysis 2 gave us an idea of who might the key players involed in the scam. Studying the content of the mails forwarded by these people will give an impression of what were the topics of discussion during that timeframe.  
@@ -74,7 +74,7 @@ Results of Analysis 2 gave us an idea of who might the key players involed in th
 ![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
 
 ### Conclusion: 
-Few of the people who were aware of the scam or were involved in it were Vincent Kaminski, John Arnold and Drew Fossum. As we can see from the results, that these were among the top 10 people who were sending mails during that time.
+From the Word Cloud we can see what was being talked in these emails mostly. Looking at the result , these emails were mostly about Deal, Agreement, Meeting, Project. These topics might be used to discuss the scandal that was going inside the company.
 
 ======
 
