@@ -92,7 +92,7 @@ Download the data and store as json response.
 Analysis 1 is based on Article Search API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
 
 ### Analysis 1 : Identifying the trending sports during a particular timeframe.
-(Data used for years 2013-2017)
+(Data used for years 2015-2017)
 
 ### Steps followed: 
     
@@ -101,11 +101,7 @@ Analysis 1 is based on Article Search API . It has Times articles from 1851 to t
 - calculate the count of articles published for a particular sport in a particular monthof an year.
     
 ### Results:
- 
-#####Trending Sports During 2013   
-![alt tag](https://www.w3schools.com/css/trolltunga.jpg)
-#####Trending Sports During 2014
-    ![alt tag](image_url)
+
 #####Trending Sports During 2015    
 ![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%201/Sport1.PNG)
 #####Trending Sports During 2016
@@ -141,7 +137,7 @@ Analysis 1 is based on Archive API . It has Times articles from 1851 to today, r
 ![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%202/Analysis%202/2016_Trump.PNG)
 
 #### Conclusion: 
-From the Word Cloud for year 2014 is can to interpreted that there were not much discussions about Mr. Trump in the news. As the election time approached, in 2015 the discussions about him increased and terms like presidential, campaign, Republican became frequent. And as we had elections in 2016, Donald Trump was discussed the most in the new articles and the frequency of election and Republican party related words became more frequent in the news.
+The results show how the trend of topics related to trump has changes over period of years. From the Word Cloud for year 2014 is can to interpreted that there were not much discussions about Mr. Trump in the news. As the election time approached, in 2015 the discussions about him increased and terms like presidential, campaign, Republican became frequent. And as we had elections in 2016, Donald Trump was discussed the most in the new articles and the frequency of election and Republican party related words became more frequent in the news.
  
 
 ## Analysis 3
