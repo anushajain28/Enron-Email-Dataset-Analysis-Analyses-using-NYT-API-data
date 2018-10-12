@@ -36,7 +36,7 @@ From the results it was evident that there was a sudden increase in the number o
 ## Analysis 2
 As it was known that the scam occured during 2000-2001 , and from the results of Analysis 1 it became more evident that something suspicious was happening in the company during that time, so mails sent during that period were analysed.
 
-###Analysis 2 - Determining who sent the most mails and to whom. 
+### Analysis 2 - Determining who sent the most mails and to whom. 
     
 ### Steps followed: 
     
@@ -116,7 +116,7 @@ Based on the data available, the results show the most trending sport during eac
 ## Analysis 2
 Analysis 1 is based on Archive API . It has Times articles from 1851 to today, retrieving headlines, abtracts and links to associated media for various domains like Sports, Business, Politics, World etc.
 
-###Analysis 2 - Identifying the topics discussed about Mr. Donald Trump. 
+### Analysis 2 - Identifying the topics discussed about Mr. Donald Trump. 
 (Data used for year 2014, 2015 and 2016)  
 ### Steps followed: 
     
@@ -143,7 +143,7 @@ The results show how the trend of topics related to trump has changes over perio
 ## Analysis 3
 Analysis 3 is based on Most Popular API . It has Times articles with their view count and shared count and the atricles which were forwaded as email.
 
-###Analysis 3 - Determining the most popular author based on the view count and the share count of his/her articles.
+### Analysis 3 - Determining the most popular author based on the view count and the share count of his/her articles.
     
 ### Steps followed: 
     
