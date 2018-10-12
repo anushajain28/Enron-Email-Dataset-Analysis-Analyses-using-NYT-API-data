@@ -60,7 +60,7 @@ Few of the people who were aware of the scam or were involved in it were Vincent
 ## Analysis 3
 Results of Analysis 2 gave us an idea of who might the key players involed in the scam. Studying the content of the mails forwarded by these people will give an impression of what were the topics of discussion during that timeframe.  
 
-###Analysis 3 - Determining the frequecy of words used during communication via email. 
+### Analysis 3 - Determining the frequecy of words used during communication via email. 
     
 ### Steps followed: 
     
